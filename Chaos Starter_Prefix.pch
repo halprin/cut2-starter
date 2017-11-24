@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Chaos Starter' target in the 'Chaos Starter' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
